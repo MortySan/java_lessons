@@ -10,7 +10,7 @@ public class Main1_3 {
 
         double l = 2*3.14*r;
 
-        System.out.println(+l);
+        System.out.println(l);
 
 
 

@@ -13,11 +13,11 @@ public class Main1_2 {
 
         double p = (a + b + c)/2;
 
-        System.out.println(+p);
+        System.out.println(p);
 
         double s = Math.sqrt(p*(p-a)*(p-b)*(p-c));
 
-        System.out.println(+s);
+        System.out.println(s);
 
     }
 
